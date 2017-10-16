@@ -19,8 +19,14 @@ These simple scripts will allow you to have persistent aliases for `cmd.exe` ver
 
 1) Run `uninstall.cmd`
 
-##Notes
+## Notes
 
 This edits your registry. Whist I am pretty sure that these scripts will not trash your registry, I can't be 100% sure. 
 
 Run at your own risk, your millage may vary, works for me, etc, etc.
+
+## Sources
+
+[Setup Persistent Aliases & Macros in Windows Command Prompt (cmd.exe) using DOSKey](https://gist.github.com/vladikoff/38307908088d58af206)
+
+[Automatically executing commands when a command-prompt is opened](https://superuser.com/questions/302194/automatically-executing-commands-when-a-command-prompt-is-opened)
